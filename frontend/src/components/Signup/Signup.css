@@ -1,0 +1,11 @@
+.signup-page{
+    display: flex;
+    margin-left: 400px;
+    margin-top: 80px;
+    padding: 10px;
+    width:900px;
+}
+
+.signup-page .signup-form input{
+    width: 357px;
+}

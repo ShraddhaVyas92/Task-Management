@@ -1,0 +1,13 @@
+.task-container .main-container .new-task{
+    margin-left: 20%;
+}
+
+.new-task{
+    width: 800px;
+    padding: 5%;
+}
+
+.main-container h2{
+    margin-left: 40px;
+    color:white;
+}

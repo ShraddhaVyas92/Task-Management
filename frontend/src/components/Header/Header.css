@@ -1,0 +1,46 @@
+.dashboard-content
+{
+    border: 1px solid white;
+    width:1250px;
+    display: flex;
+    margin:2% 5% 2% 5%;
+    background-color:white;
+    padding:1%;
+    height: 70px;
+}
+
+.navbar{
+    display: flex;
+    gap:5px;
+}
+
+.navbar > * {
+    color: black;
+}
+
+nav button{
+        color:white;
+        width: 100px;
+        height:40px;
+        margin-top: 0;
+    }
+
+    .search
+    {
+        margin-left: 50px;
+        margin-right: 10px;
+        height: 40px;
+        background-color: white;
+    }
+
+    .add-task{
+        margin-left: 280px;
+    }
+
+    .login-link {
+        margin-left: 50px;
+    }
+
+    .signup-link   {
+        margin-left: 20px;
+    }

@@ -1,0 +1,55 @@
+.login-page{
+    display: flex;
+    margin-top: 6%;
+    margin-left: 200px;
+    margin-top: 120px;
+    padding: 10px;
+    width:900px;
+}
+  .login-form div input{
+    width: 357px;
+  }
+
+  .login-container{
+    border: 1px solid white;
+    width:500px;
+    color:white;
+    padding:8%;
+    background-color:black;
+  }
+  
+  .login-container button{
+    width: 100%;
+    color: white;
+    background-color:black ;
+    padding: 2%;
+  }
+
+  .login-container button span{
+    font-weight: 700
+  }
+  .circle{
+    margin-left: 10%;
+    width: 60px; /* Set the desired width */
+    height: 60px; /* Set the desired height (same as width for a circle) */
+    border-radius: 50%; /* Makes the div a circle */
+    background-color: white; /* Optional: Add a background color for visibility */
+    display: flex; /* Enables flexbox for centering */
+    align-items: center; /* Centers vertically */
+    justify-content: center; /* Centers horizontally */
+    text-align: center; /* Centers the text within the circle */
+    font-size: 16px; /* Adjust font size as needed */
+    margin-top: 20%;
+    color: black;
+  }
+  
+  .sign-up-link{
+    margin-left: 10%;
+    margin-top: 22%;
+    font-size: 20px;
+  }
+
+  .sign-up-link span a{
+    font-weight: 700;
+    color:white;
+  }

@@ -1,0 +1,21 @@
+.task-form{
+    margin: 2% 5% 2% 5%;
+    border:1px solid black;
+    background-color: powderblue;
+    padding:5%;
+}
+
+.task-form input{
+    background-color: whitesmoke;
+}
+
+.form-control{
+    width:500px;
+}
+
+button
+{
+    color: white;
+    margin-top: 10px;
+    width:30%;
+}

@@ -1,0 +1,14 @@
+.dashboard h2{
+    margin: 5% 5% 0% 5%;
+    color:white;
+    font-size: 22px;
+}
+
+.main-container{
+    display: flex;
+    align-items: flex-start;
+}
+
+.list-task{
+    width: 45%;
+}   

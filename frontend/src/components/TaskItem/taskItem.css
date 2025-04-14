@@ -1,0 +1,40 @@
+.task-actions {
+    margin-top: 10px;
+    display: flex;
+    gap: 8px;
+  }
+
+  .task-card{
+    background-color: white;
+    padding:1% 1% 1% 5%;
+    font-size: 15px;
+    margin-left: 13px;
+  }
+  
+  .edit-btn,
+  .delete-btn {
+    padding: 10px;
+    width: 100px; /* fixed width */
+    height: 40px; /* fixed height */
+    font-size: 14px;
+    text-align: center;
+    border-radius: 4px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .edit-btn {
+    background-color: #4CAF50;
+    color: #fff;
+    text-decoration: none;
+    margin-top: 11px;
+  }
+  
+  .delete-btn {
+    background-color: #f44336;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
